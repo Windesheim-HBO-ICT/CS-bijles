@@ -1,0 +1,15 @@
+Opdracht Printer
+
+Voor deze opdracht kan je het project calculator als voorbeeld gebruiken.
+
+Voor deze opdracht gaan we een uitprint methode maken die verschillende printers(delegates) kan gebruiken.
+
+1) definieer een delegate Print die een string krijgt en een void teruggeeft.
+
+2) maak een methode PrintUit die een Print delegate en een string als argumenten heeft en een void als uitput. De methode moet de delegate aanroepen met de string als argument.
+
+3) Definieer 2 of meer methodes die een string krijgen en  in de console printen. Zorg ervoor dat de methodes verschillend zijn. De signatuur van de methode moet overeen komen met de delegate.
+
+4) Roep in Program de methode PrintUit aan met een  string en de printer methodes die je hebt geschreven.
+
+5) Controleer of alles werkt door je programma te draaien.
