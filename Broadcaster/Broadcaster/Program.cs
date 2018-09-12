@@ -10,38 +10,41 @@ namespace Broadcaster
     public delegate void StuurBericht(String bericht);
 
     public class Program
-    {
-        private StuurBericht _verstuurders;
-
+    {   
         static void Main(string[] args)
         {
-            Program program = new Program();
+            Messenger messenger = new Messenger();
+            messenger.VoegToeVerstuurder(VerstuurBerichtViaEmail);
+            messenger.VoegToeVerstuurder(VerstuurBerichtSchreeuwen);
+            messenger.VerstuurBericht("Wij maken huiswerk");
         }
 
-        public Program()
-        {
-            VoegToeVerstuurder(VerstuurBerichtViaEmail);
-            VoegToeVerstuurder(VerstuurBerichtSchreeuwen);
-        }
-
-        public void VerstuurBericht(String bericht)
-        {
-            _verstuurders(bericht);
-        }
-
-        public void VoegToeVerstuurder(StuurBericht verstuurder)
-        {
-            _verstuurders += verstuurder;
-        }
-
-        public void VerstuurBerichtViaEmail(String bericht)
+        public static void VerstuurBerichtViaEmail(String bericht)
         {
             Console.WriteLine("Nieuwe email: "+bericht);
         }
         
-        public void VerstuurBerichtSchreeuwen(String bericht)
+        public static void VerstuurBerichtSchreeuwen(String bericht)
         {
             Console.WriteLine(bericht.ToUpper());
+        }
+    }
+
+    public class Messenger
+    {
+        private event StuurBericht Verstuurders;
+
+        public void VerstuurBericht(String bericht)
+        {
+            if (Verstuurders != null)
+            {
+                Verstuurders(bericht);
+            }
+        }
+
+        public void VoegToeVerstuurder(StuurBericht verstuurder)
+        {
+            Verstuurders += verstuurder;
         }
     }
 }

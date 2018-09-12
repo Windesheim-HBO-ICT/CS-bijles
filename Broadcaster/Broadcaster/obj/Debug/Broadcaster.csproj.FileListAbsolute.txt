@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\bin\Debug\Broadcaster.exe.config
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\bin\Debug\Broadcaster.exe
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\bin\Debug\Broadcaster.pdb
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\obj\Debug\Broadcaster.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\obj\Debug\Broadcaster.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\obj\Debug\Broadcaster.exe
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Broadcaster\Broadcaster\obj\Debug\Broadcaster.pdb
