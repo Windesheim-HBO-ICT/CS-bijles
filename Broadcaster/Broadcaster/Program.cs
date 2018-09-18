@@ -7,7 +7,18 @@ using System.Threading.Tasks;
 
 namespace Broadcaster
 {
-    public delegate void StuurBericht(String bericht);
+    public class BerichtEventArgs
+    {
+        public BerichtEventArgs(string inhoud)
+        {
+            Inhoud = inhoud;
+        }
+
+        public string Inhoud { get; }
+    }
+
+    public delegate void StuurBericht(BerichtEventArgs bericht);
+
 
     public class Program
     {   
@@ -19,14 +30,14 @@ namespace Broadcaster
             messenger.VerstuurBericht("Wij maken huiswerk");
         }
 
-        public static void VerstuurBerichtViaEmail(String bericht)
+        public static void VerstuurBerichtViaEmail(BerichtEventArgs bericht)
         {
-            Console.WriteLine("Nieuwe email: "+bericht);
+            Console.WriteLine("Nieuwe email: "+bericht.Inhoud);
         }
         
-        public static void VerstuurBerichtSchreeuwen(String bericht)
+        public static void VerstuurBerichtSchreeuwen(BerichtEventArgs bericht)
         {
-            Console.WriteLine(bericht.ToUpper());
+            Console.WriteLine(bericht.Inhoud.ToUpper());
         }
     }
 
@@ -34,8 +45,9 @@ namespace Broadcaster
     {
         private event StuurBericht Verstuurders;
 
-        public void VerstuurBericht(String bericht)
+        public void VerstuurBericht(String inhoud)
         {
+            BerichtEventArgs bericht = new BerichtEventArgs(inhoud);
             if (Verstuurders != null)
             {
                 Verstuurders(bericht);
