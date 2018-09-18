@@ -3,3 +3,13 @@ Opdracht: Tempertuuralarm
 Voor deze opdracht kan je het project Broadcaster als voorbeeld gebruiken.
 
 Voor deze opdracht gaan we een temperatuuralarm maken. Deze klas heeft een methode om de temperatuur door te geven. Als de temperatuur boven de 80 graden is, moet er een alarm(event) afgaan. Het alarm alameert alle apparaten die zich hebben aangemeld op het alarm.
+
+1) maak een klasse Temperatuuralarm. Geef deze klasse een methode checkTemperatuur. Deze methode heeft een int (de temperatuur) als input en een void als output.
+   De body van deze klasse komt later.
+                   
+2) definieer een public delegate void TemperatuurControle. Geef Temperatuuralarm een private event TemperatuurControle Alarm. Geef het ook een methode 
+   VoegTemperatuurControleToe die een TemperatuurControle binnen krijgt en dit toevoegt aan de delegate event.
+   
+3) schrijf de implementatie van checkTemperatuur en zorg dat wanneer de int die binnen komt hoger is dan 80 hij de TemperatuurControle Alarm aanroept.
+
+4) voeg wat methodes toe aan de Alarm. Roep checkTemperatuur aan met meerdere waardes en kijk wat er gebeurt. 
