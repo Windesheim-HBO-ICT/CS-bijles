@@ -4,8 +4,7 @@ Voor deze opdracht kan je het project Broadcaster als voorbeeld gebruiken.
 
 Voor deze opdracht gaan we een temperatuuralarm maken. Deze klas heeft een methode om de temperatuur door te geven. Als de temperatuur boven de 80 graden is, moet er een alarm(event) afgaan. Het alarm alameert alle apparaten die zich hebben aangemeld op het alarm.
 
-1) Maak een klasse TemperatuurAlarm. 
-   De body van deze klasse komt later.
+1) Maak een klasse TemperatuurAlarm. De body van deze klasse komt later.
 
 2) Maak een klasse temperatuurEventArg die als veld een public int temperatuur heeft.
 
