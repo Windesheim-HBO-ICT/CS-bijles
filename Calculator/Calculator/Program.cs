@@ -21,6 +21,18 @@ namespace Calculator
 
             int getal3 = DoeBerekening(10, PlusEen);
             Console.WriteLine(getal3);
+            int[] i = DoeBerekeningArray(new[]{
+            10,11 ,21}, PlusEen);
+        }
+
+        public static int[] DoeBerekeningArray(int[] getallen, Berekening berekening)
+        {
+            int[] newArray = new int[getallen.Length];
+            for (int i = 0; i < getallen.Length; i++)
+            {
+                
+            
+            }
         }
 
         //Deze methode voert de berekening uit.

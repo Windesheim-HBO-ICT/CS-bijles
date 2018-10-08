@@ -1,0 +1,11 @@
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Generics\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
