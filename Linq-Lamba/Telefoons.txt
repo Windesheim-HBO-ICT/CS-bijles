@@ -1,0 +1,23 @@
+Er is een magazijn met telefoons. In de opdracht gaan we een overzicht maken van het magazijn.
+
+1)
+Maak een class telefoon aan. De class moet de attributen prijs, naam en aantal.
+
+2) 
+Vul een lijst met verschillende telefoons.
+
+3)
+Haal alle telefoons op waarvan de naam begint met a, gesorteerd op aantal.
+Geef een overzicht van deze telefoons.
+
+4)
+Haal alle telefoons op gesorteerd op aantal.
+Geef een overzicht van alle aantallen.
+
+5)
+Haal alle telefoons op gesorteerd op prijs
+Geef een overzicht van deze telefoons.
+
+6)
+Verwijder een telfoon uit de lijst.
+Voer opdracht 5 nog een keer uit zonder een nieuwe query te schrijven.
