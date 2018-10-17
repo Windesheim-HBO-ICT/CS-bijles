@@ -1,0 +1,7 @@
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\bin\Debug\LambdaEnLinq.exe.config
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\bin\Debug\LambdaEnLinq.exe
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\bin\Debug\LambdaEnLinq.pdb
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\obj\Debug\LambdaEnLinq.csprojAssemblyReference.cache
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\obj\Debug\LambdaEnLinq.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\obj\Debug\LambdaEnLinq.exe
+C:\Users\hassa\source\repos\huiswerk c#\LambdaEnLinq\LambdaEnLinq\obj\Debug\LambdaEnLinq.pdb

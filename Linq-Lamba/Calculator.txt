@@ -1,0 +1,17 @@
+We gaan een rekenmachine schrijven en uittesten welke manieren we die kunnen gebruiken
+
+1) Declareer een delegate Calculatie die twee ints binnen krijgt en een int teruggeeft.
+
+2) Declareer een (static) functie Calculate, die twee ints en een Calculatie binnen krijgt
+   en het resultaat van de Calculatie op die twee ints teruggeeft.
+
+3) Declareer nu 2 of meer (Static) functies die aan de Calculatie delegate voldoen (ze hebben de zelfde inputs en outputs)
+   (voorbeeld plus, min, keer, delen, max, min, randomSelect, left, right)
+
+4) Kijk wat het resultaat is wanneer je de Calculate nu uitvoert met de functies. 
+
+5) Probeer Calculate nu uit te voeren met dezelfde waarde maar in plaats van de functies, Lambda functies.
+
+6) Definieer Een niewe functie StandaardCalculate die in plaats van een Calculatie een Standaard Func<???> binnen krijgt.
+
+7) Voer stap 4 en 5 uit met deze StandaardCalculate.
