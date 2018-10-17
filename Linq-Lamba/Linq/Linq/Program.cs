@@ -44,7 +44,8 @@ namespace Linq
             }
             Console.WriteLine();
 
-
+            var allNames = films.Select(f => f.Name).Aggregate((f1, f2) => f1+ ", " + f2);
+            Console.WriteLine(allNames);
         }
     }
 }

@@ -9,3 +9,14 @@ c:\users\ivan\source\repos\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoIn
 c:\users\ivan\source\repos\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
 c:\users\ivan\source\repos\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.dll
 c:\users\ivan\source\repos\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.pdb
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.deps.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.dev.json
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.dll
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.pdb
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csprojAssemblyReference.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.dll
+C:\Users\Ivan\Documents\Develop\StudentAssistent\bijlesOpdracht\Linq-Lamba\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.pdb
