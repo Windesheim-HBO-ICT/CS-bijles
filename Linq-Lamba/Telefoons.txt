@@ -7,15 +7,18 @@ Maak een class telefoon aan. De class moet de attributen prijs, naam en aantal.
 Vul een lijst met verschillende telefoons.
 
 3)
-Haal alle telefoons op waarvan de naam begint met a, gesorteerd op aantal.
+Haal alle telefoons op waarvan de naam begint met a, gesorteerd op aantal. 
+Maak gebruik van methode syntax
 Geef een overzicht van deze telefoons.
 
 4)
-Haal alle telefoons op gesorteerd op aantal.
+Haal alle telefoons op waarvan de prijs hoger is dan 400, gesorteerd op aantal.
+Maak gebruik van methode sql
 Geef een overzicht van alle aantallen.
 
 5)
 Haal alle telefoons op gesorteerd op prijs
+Maak gebruik van methode syntax
 Geef een overzicht van deze telefoons.
 
 6)
