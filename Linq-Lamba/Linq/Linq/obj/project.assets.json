@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ivan\\.nuget\\packages\\": {},
+    "C:\\Users\\hassa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Documents\\Develop\\StudentAssistent\\bijlesOpdracht\\Linq-Lamba\\Linq\\Linq\\Linq.csproj",
+      "projectUniqueName": "D:\\GitHub\\CS-bijles\\Linq-Lamba\\Linq\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Users\\Ivan\\Documents\\Develop\\StudentAssistent\\bijlesOpdracht\\Linq-Lamba\\Linq\\Linq\\Linq.csproj",
-      "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Documents\\Develop\\StudentAssistent\\bijlesOpdracht\\Linq-Lamba\\Linq\\Linq\\obj\\",
+      "projectPath": "D:\\GitHub\\CS-bijles\\Linq-Lamba\\Linq\\Linq\\Linq.csproj",
+      "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\CS-bijles\\Linq-Lamba\\Linq\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,7 +1,0 @@
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\bin\Debug\LambdaEnLinq.exe.config
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\bin\Debug\LambdaEnLinq.exe
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\bin\Debug\LambdaEnLinq.pdb
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\obj\Debug\Calculator.csprojAssemblyReference.cache
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\obj\Debug\LambdaEnLinq.exe
-D:\GitHub\CS-bijles\Linq-Lamba\Lambda\LambdaEnLinq\obj\Debug\LambdaEnLinq.pdb
